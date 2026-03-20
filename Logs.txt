@@ -1,0 +1,3 @@
+[+] Port 22 OPEN
+[+] Port 80 OPEN
+[+] Port 4831 OPEN
