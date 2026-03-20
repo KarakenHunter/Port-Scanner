@@ -5,7 +5,7 @@ while i<=100:
         is_socket=None
         sock=socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(1)
-        sock.connect(('localhost', i))
+        sock.connect_ex(('localhost', i))
         is_socket=True
         if is_socket==True:
             print(f"Port {i} is open")
