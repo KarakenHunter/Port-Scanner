@@ -24,9 +24,10 @@ Enter:
 Target IP
 Start port
 End port
+
 Example Output
 [+] Port 80 OPEN | HTTP
 [+] Port 443 OPEN | HTTPS
+```
 Disclaimer
-
 This tool is for educational purposes only. Use it only on systems you own or have permission to test.
